@@ -1,16 +1,15 @@
 # flutter_url_shortener
 
-A new Flutter project.
+This is a Flutter web app for url shortening
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Для запуска приложения с помощью docker compose, запустите в командной строке docker-compose up. Проект запуститься по порту 8080. 
+Альтернативно можно запустить проект с помощью flutter run и из опции выбрать нужный браузер.
 
-A few resources to get you started if this is your first Flutter project:
+## Working with app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Приложение подключается к API который работает через порт 80. 
+В приложении два инпута - для ввода длинного url и ввода сокращенного url. 
+![image](https://github.com/MADIBARCA/shortyurl_flutter/assets/45726484/0f10c629-bdc5-4196-a376-dc7a2960bca2)
+Результаты после ввода отображаются снизу.
