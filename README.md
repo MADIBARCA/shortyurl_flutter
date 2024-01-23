@@ -12,4 +12,6 @@ This is a Flutter web app for url shortening
 Приложение подключается к API который работает через порт 80. 
 В приложении два инпута - для ввода длинного url и ввода сокращенного url. 
 ![image](https://github.com/MADIBARCA/shortyurl_flutter/assets/45726484/0f10c629-bdc5-4196-a376-dc7a2960bca2)
+
+
 Результаты после ввода отображаются снизу.
