@@ -14,7 +14,8 @@ This is a Flutter web app for url shortening
 Копировать новый url можно с помощью "copy to clipboard". Результаты после ввода отображаются снизу.
 
 
-![image](https://github.com/MADIBARCA/shortyurl_flutter/assets/45726484/0f10c629-bdc5-4196-a376-dc7a2960bca2)
+![image](https://github.com/MADIBARCA/shortyurl_flutter/assets/45726484/60ff5bba-211b-4d88-9bc4-f1e964476ea1)
+
 
 
 
